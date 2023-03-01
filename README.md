@@ -293,7 +293,7 @@ module.exports = postsController;
 
 
 
-20 - Testar no Postman: Aquivo PowerPoint (slide 8)
+20 - Testar no Postman
 
 http://localhost:3000/api/v1/posts/2
 
@@ -318,6 +318,6 @@ module.exports = router
 
 
 
-22- Inserir Dados no Postman: Aquivo PowerPoint (slides 9 e 10)
+22- Inserir Dados no Postman
 
 http://localhost:3000/api/v1/posts
